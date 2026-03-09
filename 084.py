@@ -1,4 +1,3 @@
-
 quantidade_produto_100 = 0
 quantidade_produto_101 = 0
 quantidade_produto_102 = 0
