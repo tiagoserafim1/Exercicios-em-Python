@@ -29,10 +29,8 @@ professor digite o gabarito da prova antes dos alunos usarem o programa.
 # * Imports
 # ? Possibilita saber se o PC roda windows ou linux
 from sys import platform
-
 # ? A função system possibilita exercutar comandos no terminal
 from os import system
-
 # * Variáveis globais
 aluno_com_maior_acerto = ""
 aluno_com_menor_acerto = ""
