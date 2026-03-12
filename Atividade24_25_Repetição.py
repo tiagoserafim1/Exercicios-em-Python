@@ -1,5 +1,3 @@
-####24###
-
 print("-calcular médias")
 quantidade_notas=int(input("-digite a quantidade de notas---> "))
 contadormedia=0
