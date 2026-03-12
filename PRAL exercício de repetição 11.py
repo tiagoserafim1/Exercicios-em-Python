@@ -7,4 +7,3 @@ while (inicio<fim-1):
     soma=inicio+soma
     
 print("a soma dos intervalos é =",soma)
-    
